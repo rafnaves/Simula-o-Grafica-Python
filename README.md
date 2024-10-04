@@ -1,1 +1,2 @@
 ![Imagem do WhatsApp de 2024-10-03 à(s) 21 06 46_b0adf745](https://github.com/user-attachments/assets/9d1636f3-dd9e-41fe-a3f6-6667eeeffddd)
+Em resumo, esse programa forma a base de um motor gráfico simples que permite a renderização de objetos 3D em um ambiente utilizando técnicas de sombreamento, texturização e renderização de sombras, aproveitando os recursos da GPU através do ModernGL. Cada classe tem uma função específica, e juntas elas possibilitam a criação e manipulação de uma cena 3D interativa.
